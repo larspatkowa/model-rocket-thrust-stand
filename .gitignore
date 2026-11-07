@@ -1,0 +1,33 @@
+# Local builds, dependencies, and operating-system files
+.DS_Store
+.build/
+dist/
+.pio/
+.venv/
+node_modules/
+__pycache__/
+*.py[cod]
+
+# Local editor and agent settings
+.claude/
+.codex/
+.cursor/
+.grok/
+.impeccable/
+
+# Local archives, camera originals, and generated exports
+.local-archive/
+.studio/
+runs/*/data-calibrated.csv
+rocket-thrust-export/
+output/
+*.mp4
+!runs/launch-01/camera/launch-01-website.mp4
+!runs/launch-02/camera/launch-02-website.mp4
+*.mov
+*.avi
+*.AVI
+*.THM
+*.db
+*.db-shm
+*.db-wal

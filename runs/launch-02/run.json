@@ -1,0 +1,11 @@
+{
+  "runId": "launch-02",
+  "label": "Launch 2",
+  "source": "Cropped launch window; time_s is relative to the start of the selected website graph range.",
+  "originalTimeStartSeconds": 15,
+  "camera": {
+    "file": "camera/launch-02-website.mp4",
+    "offsetSeconds": 3.6451363617201586,
+    "markers": []
+  }
+}
